@@ -56,7 +56,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayseo20&theme=radical" height="150"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F779D0&center=true&vCenter=true&width=600&lines=안녕하세요!+제+GitHub에+오신걸+환영합니다!;백엔드+개발자+지망생;늘+배우고+성장하는+중입니다." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F779D0&center=true&vCenter=true&width=600&lines=Hello world!+제+GitHub에+오신걸+환영합니다!;행복하세요." />
+
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House)
+
+  ![snake gif](https://github.com/jayseo20/jayseo20/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 
 
