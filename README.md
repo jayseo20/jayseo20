@@ -58,11 +58,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayseo20&theme=radical" height="150"/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F779D0&center=true&vCenter=true&width=600&lines=Hello world!+제+GitHub에+오신걸+환영합니다!;행복하세요." />
-</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House" />
@@ -71,7 +66,13 @@
 
  ![snake animation](https://github.com/jayseo20/jayseo20/blob/output/snake.svg)
 
-
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayseo20&theme=radical" height="150"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F779D0&center=true&vCenter=true&width=600&lines=Hello%20world!+%EC%A0%9C+GitHub%EC%97%90+%EC%98%A4%EC%8B%A0%EA%B1%B8+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!;%ED%96%89%EB%B3%B5%ED%95%98%EC%84%B8%EC%9A%94." />
+</p>
+
 
 
