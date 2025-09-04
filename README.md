@@ -57,7 +57,9 @@
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F779D0&center=true&vCenter=true&width=600&lines=Hello world!+제+GitHub에+오신걸+환영합니다!;행복하세요." />
 
+<p align="center">
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House)
+</p>
 
  ![snake animation](https://github.com/jayseo20/jayseo20/blob/output/snake.svg)
 
