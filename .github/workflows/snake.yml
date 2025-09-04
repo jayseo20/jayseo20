@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 매일 자정(UTC)
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # 브랜치 생성/푸시에 안전
+          fetch-depth: 0
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -28,7 +28,9 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
