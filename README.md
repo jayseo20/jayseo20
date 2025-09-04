@@ -6,7 +6,7 @@
 - 🌱 1인 앱 서비스 런칭을 목표로 도전 중입니다.   
 - 👯 관심사: **사이드 프로젝트 협업**  
 - 📫 연락처: **[이메일](mailto:gighj@naver.com)**  
-- ⚡ TMI: *커피 ☕와 위스키 🥃, 그리고 야간 코딩 🌙을 좋아합니다*  
+- ⚡ TMI: *커피 ☕와 위스키 🥃, 그리고 야간 작업🌙을 좋아합니다*  
 
 ---
 
@@ -40,6 +40,11 @@
 
   <!-- 클라우드 & DevOps -->
   <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+   <!-- 디자인 & 영상 -->
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Final%20Cut%20Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
 ---
