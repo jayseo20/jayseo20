@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150§ion=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150§ion=footer" />
+
+
 <!--
 **jayseo20/jayseo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayseo20&show_icons=true&theme=radical)
