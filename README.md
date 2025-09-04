@@ -41,7 +41,6 @@
 
 ---
 
-## 🌈 재미있는 요소
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayseo20&theme=radical" height="150"/>
   <br/>
