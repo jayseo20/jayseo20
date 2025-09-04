@@ -62,6 +62,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayseo20&theme=radical" height="150"/>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F779D0&center=true&vCenter=true&width=600&lines=Hello world!+제+GitHub에+오신걸+환영합니다!;행복하세요." />
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House" />
