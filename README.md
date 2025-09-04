@@ -1,7 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150§ion=header" />
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150§ion=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150§ion=footer" />
+
 
 
 <!--
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayseo20&show_icons=true&theme=radical)
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150§ion=footer" />
