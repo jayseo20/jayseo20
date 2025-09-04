@@ -3,7 +3,7 @@
 
 ## 🌟 소개
 - 🔭 현재 웹/앱 개발 전반을 공부하고 있습니다.  
-- 🌱 1인 앱 개발을 목표로 도전 중입니다.   
+- 🌱 1인 앱 서비스 런칭을 목표로 도전 중입니다.   
 - 👯 관심사: **사이드 프로젝트 협업**  
 - 📫 연락처: **[이메일](mailto:gighj@naver.com)**  
 - ⚡ TMI: *커피 ☕와 위스키 🥃, 그리고 야간 코딩 🌙을 좋아합니다*  
@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
   <!-- 데이터베이스 -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
