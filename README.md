@@ -2,11 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=안녕하세요!%20jayseo20%20입니다%20👋&fontSize=40&fontAlignY=35&animation=twinkling" />
 
 ## 🌟 소개
-- 🔭 현재 **웹 개발을 **를 공부하고 있어요  
-- 🌱 1인 앱 개발을 목표로 도전하려고 합니다.
+- 🔭 현재 웹/앱 개발 전반을 공부하고 있습니다  
+- 🌱 1인 앱 개발을 목표로 도전 중입니다  
 - 👯 관심사: **사이드 프로젝트 협업**  
 - 📫 연락처: **[이메일](mailto:gighj@naver.com)**  
-- ⚡ TMI: *커피 ☕와 위스키 야간 코딩 🌙을 좋아합니다*  
+- ⚡ TMI: *커피 ☕와 위스키 🥃, 그리고 야간 코딩 🌙을 좋아합니다*  
+
+---
+
+## 💼 경력 및 역량
+- 🌍 **글로벌 앱·웹 서비스 런칭 경험** (A부터 Z까지 전 과정 담당)  
+- 📌 **서비스 기획 / 마케팅 / 사업 기획 가능**  
+- 🤝 **기술과 비즈니스를 연결하는 풀스택 역량 보유**  
 
 ---
 
@@ -16,16 +23,21 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   
   <!-- 프레임워크 & 라이브러리 -->
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
   <!-- 데이터베이스 -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 
   <!-- 클라우드 & DevOps -->
   <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -44,5 +56,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayseo20&theme=radical" height="150"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F779D0&center=true&vCenter=true&width=600&lines=안녕하세요!+제+GitHub에+오신걸+환영합니다!;백
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F779D0&center=true&vCenter=true&width=600&lines=안녕하세요!+제+GitHub에+오신걸+환영합니다!;백엔드+개발자+지망생;늘+배우고+성장하는+중입니다." />
+</p>
+
 
