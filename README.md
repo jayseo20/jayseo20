@@ -59,7 +59,8 @@
 
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House)
 
-  ![snake gif](https://github.com/jayseo20/jayseo20/blob/output/github-contribution-grid-snake.svg)
+ ![snake animation](https://github.com/jayseo20/jayseo20/blob/output/snake.svg)
+
 
 </p>
 
