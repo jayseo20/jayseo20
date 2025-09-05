@@ -6,7 +6,7 @@
 - 🔭 현재 웹/앱 개발 전반을 공부하고 있습니다.  
 - 🌱 1인 앱 서비스 런칭을 목표로 도전 중입니다.   
 - 👯 관심사: **사이드 프로젝트 협업**  
-- 📫 연락처: **[이메일](mailto:gighj@naver.com)**
+- 📫 연락처: **[이메일](https://mail.naver.com/)** (gighj@naver.com)
 - 📝 [archive](https://www.notion.so/Programming-1d5ca6f5db538042a55ad00044f25ea5)
 
 
