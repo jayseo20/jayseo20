@@ -81,5 +81,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F779D0&center=true&vCenter=true&width=600&lines=Hello%20world!+%EC%A0%9C+GitHub%EC%97%90+%EC%98%A4%EC%8B%A0%EA%B1%B8+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!;%ED%96%89%EB%B3%B5%ED%95%98%EC%84%B8%EC%9A%94." />
 </p>
 
+<!-- 하단 웨이브 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 
