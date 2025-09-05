@@ -1,6 +1,7 @@
 <!-- 상단 웨이브 배너 -->
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello%20World!%20jayseo20%20👋&fontSize=40&fontAlignY=35&animation=twinkling" />
-
+</p>
 
 ## 🌟 소개
 - 🔭 현재 웹/앱 개발 전반을 공부하고 있습니다.  
@@ -82,6 +83,7 @@
 </p>
 
 <!-- 하단 웨이브 배너 -->
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-
+</p>
 
