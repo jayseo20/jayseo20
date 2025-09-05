@@ -7,7 +7,8 @@
 - 🌱 1인 앱 서비스 런칭을 목표로 도전 중입니다.   
 - 👯 관심사: **사이드 프로젝트 협업**  
 - 📫 연락처: **[이메일](mailto:gighj@naver.com)**
-- 📝 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Programming-1d5ca6f5db538042a55ad00044f25ea5?source=copy_link)
+- 📝 [archive](https://www.notion.so/Programming-1d5ca6f5db538042a55ad00044f25ea5)
+
 
 
 - ⚡ TMI: *커피 ☕와 위스키 🥃, 그리고 야간 작업🌙을 좋아합니다*  
